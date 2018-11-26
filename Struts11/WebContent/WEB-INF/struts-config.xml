@@ -168,7 +168,7 @@
 
   <!-- =================================================== Validator plugin -->
 
-  <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+	<plug-in className="org.apache.struts.validator.ValidatorPlugIn">
     <set-property
         property="pathnames"
         value="/org/apache/struts/validator/validator-rules.xml,
